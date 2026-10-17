@@ -1,5 +1,5 @@
 {
-    "servers": ["mastodon.social", "fedi.buzz", "fediscience.org", "akademienl.social", "social.edu.nl", "fosstodon.org", "wiki.world"],
+    "servers": ["mastodon.social", "fedi.buzz", "fediscience.org", "akademienl.social", "social.edu.nl", "fosstodon.org", "wikis.world", "mastodon.nl"],
     "tags": [ "QueryServiceDays2026" ],
     "accounts": [],
     "hideSensitive": true,
