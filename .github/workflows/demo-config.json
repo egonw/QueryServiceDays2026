@@ -1,12 +1,12 @@
 {
-    "servers": ["mastodon.social", "fedi.buzz", "fediscience.org", "akademienl.social"],
-    "tags": [ "WikiCite2025" ],
+    "servers": ["mastodon.social", "fedi.buzz", "fediscience.org", "akademienl.social", "social.edu.nl", "fosstodon.org", "wiki.world"],
+    "tags": [ "QueryServiceDays2026" ],
     "accounts": [],
     "hideSensitive": true,
     "hideBots": false,
     "hideReplies": false,
     "limit": 50,
     "interval": 30,
-    "title": "WikiCite2025 - Fediwall",
+    "title": "QueryServiceDays2026 - Fediwall",
     "theme": "light"
 }
